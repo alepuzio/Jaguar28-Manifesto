@@ -1,58 +1,58 @@
-# Jaguar28 Manifesto: 9 points for rewriting the relation between companies and tech professionals.
-
+# Jaguar28 Manifesto: 9 punti per ridefinire la relazione tra aziende e tecnici professionisti.
+## (Traduzione non ufficiale in italiano)
 ![](https://cdn-images-1.medium.com/max/800/1*bqgiR018SkKeejcLGwtbGQ.png)
 
-In the tech industry, the demand and the supply of labor are often misaligned: recognizing and engaging talents is a delicate task that requires shared principles between companies and professionals.
+Nell'industria tecnologica, domanda e offerta di lavoro sono spesso scoordinate: riconoscere e coinvolgere talenti è un compito delicato che necessita di principi condivisi tra aziende e professionisti.
 
-We wrote a Manifesto with the goal of creating guidelines able to make the encounter between these figures structured, effective and transparent. Today we are creating a community that gathers the best professionals and the best companies which identify with these values:
+Noi scriviamo un Manifesto con l'obiettivo di creare lineee guida adatte a fungere da punto di incontro chiaro, effettivo e trasparente tra queste figure. Oggi stiamo creando un comunità che ospiti i migliori professionisti e le migliori aziende che si identificano in questi valori:
 ***
-**1. TALENT MUST BE EMPHASIZED UNDER EVERY FORM**
+**1. I TALENTI DEVONO ESSERE EVIDENZIATI IN OGNI MODO**
 
-Information technology is a new form of art. Being able to shape reality through technology is a talent that must be emphasized within the context in which it is expressed. Jaguar28 wants to facilitate this process by setting standards for both the recruiting and the conditions in which the day-to-day activities take place.
+L'Information technology è una nuova forma di arte. Essere capaci di modellare la realtà attraverso la tecnologia è un talento che deve evidenziato nel contesto in cui si esprime. Jaguar28 vuole agevolare questo processo definendo standard sia per l'assunzione sia per le condizioni in cui le attività quotidiane si svolgono.
 ***
-**2. AN INSPIRING WORKING ENVIRONMENT IS THE CRADLE OF INNOVATION**
+**2. UN AMBIENTE LAVORATIVO STIMOLANTE E' LA CULLA DELL'INNOVAZIONE**
 
-Chaplin’s “Modern Times” are sometimes still actual. Professionals must be able to work in environments that are stimulating and able to canalize most of their creativity and their skills while also ensuring “room for decompression”. To do so, Jaguar28 collects the best practices globally and shares them with companies, helping to capitalize their peculiarities.
+I "Tempi Moderni" di Chaplin sono talvolta ancora attuali. I professionisti devono poter lavorare in ambienti che siano stimolanti che possano canalizzare la maggior parte della loro creatività e delle loro abilità	assicurando contemporaneamente una "camera di decompressione". A tal fine, Jaguar28 organizza le _best practices_ su scala globale e le condivide con le aziende, sfruttando al meglio queste peculiarità.
 ***
-**3. GOOD PROCESS MANAGEMENT IS THE BASIS OF AN EFFECTIVE ORGANIZATION**
+**3. BASE DI UNA ORGANIZZAZIONE EFFICACE E' UNA BUONA GESTIONE DEI PROCESSI**
 
-Well begun is half done. Today we can benefit of working methodologies able to enhance the quality of the output that are now a fundamental element of every successful company. Jaguar28 is committed to work with organizations that use these methods whenever there is a chance.
+Chi ben comincia è a metà dell'opera. Oggi noi siamo avvantaggiati lavorando con metodologie capaci di migliorare la qualità dei risultati che sono ora elementi fondamenti di ogni azienda di successo. Jaguar28 si impegna di lavorare con le organizzazione che usano queste metodologie quando ce ne sia occasione .
 ***
-**4. PROFESSIONAL GROWTH HELPS THE COMPANY GROWING**
+**4. LA CRESCITA PROFESSIONALE AIUTA LA CRESCITE DELLE AZIENDE**
 
-How do you see yourself in 5 years? Helping professionals with their growth, in terms of competencies and responsibilities, is the best investment a company can do. Jaguar28 intends to support only companies able to offer structured career paths that provide continuing education, events and bonuses.
+Come ti vedi tra 5 anni? Aiutare i professionisti nella loro crescita, in termini di competenze e responsabilità, è il migliore investimento che un'azienda possa fare. Jaguar28 vuole aiutare solo le azeinde capaci di offrire una percorsi strutturati di carriera che forniscono formazione continua, eventi e bonus.
 ***
-**5. TRANSPARENCY IS THE FIRST SIGN OF A RELIABLE JOB OFFER**
+**5. LA TRASPARENZA E' IL PRIMO SEGNALE DI UN' AFFIDABILE OFFERTA DI LAVORO**
 
-“A prestigious international company is looking for a motivated professional; salary commensurate with experience” is the incipit of too many job posts. Being transparent since the beginning about the company, the proposed role, the skills required and the available salary is the only parameter to assess the reliability of a company. Jaguar28 shares working proposals only from companies interested in talking immediately about these topics.
+"Prestigiosa azienda internazionale cerca attualmente un professionista motivato; lo stipendio sarà commisurato con l'esperienza" è l'incipit di non molte, ma di troppe offerte di lavoro. Essere trasparente fin da subito per un'azienda, la posizione proposta, le competenze richieste e lo stipendio disponibile è il solo parametro per valutare un'azienda. Jaguar28 condivide le offerte professionali con da aziende interessate a esplicitare questi aspetti fin da subito.
 ***
-**6. BEING CLEAR ABOUT THE PROJECT IS THE KEY TO ATTRACT TALENT**
+**6. ESSERE CHIARI SUL PROGETTO E' LA CHIAVE PER ATTRARRE TALENTI**
 
-The first impression is what counts. During a career transition, a professional must be able to easily get all the elements to assess his/her interest in the new professional project. Jaguar28 helps companies in developing selection processes in which the candidate can deal directly with potential managers and colleagues in order to know almost everything about the potential future employer.
+La prima impressione è quella che conta. Durante un cambio di carriera, un professionista deve poter facilnmente ottenere tutti gli elementi per valutare l'interesse di lui/lei per il nuovo progetto professionale. Jaguar28 aiuta le aziende a sviluppare processi di selezione in cui il candidato può accordarsi direttamente con i potenziali dirigenti e colleghi in funzione della potenziale conoscenza su quasi ogni cosa relativa al potenziale futuro datore di lavoro.
 ***
-**7. SKILLS AND SALARIES GROW TOGETHER**
+**7. COMPETENZE E STIPENDI CRESCONO INSIEME**
 
-Someone once said that “if you pay peanuts, you get monkeys”. We want to foster an ecosystem in which salaries are always aligned with the actual experience and expertise of each professional. To do so, Jaguar28 provides analysis and metrics of the labor market, both national and international, to help companies offering fair salaries to the new hires.
+Qualcuno una volta disse che "Se tu paghi noccioline, otterrai scimmie". Noi vogliamo incoraggiare un ecosistema in cui gli stipendi siano sempre allineati all'esperienza effetiva e competenze di ogni professionista. Per fare questo, Jaguar28 fornisce analisi e misure del mercato del lavoro, sia nazionale che internazionale, per aiutare le aziende a offrire stipendi giusti ai neoassunti.
 ***
-**8. FULLY UNDERSTAND THE JOB POSITION MAKES THE DIALOGUE EASIER**
+**8. COMPRENDERE APPIENO LA POSIZIONE LAVORATIVA FACILITA IL DIALOGO**
 
-The difference between Java and JavaScript is the same between apple and pineapple. People contacting tech professionals must have the basic knowledge in order to build a coherent and credible discussion on the role and the background of the person. Jaguar28 helps company recruiters to acquire the know-how to properly filter the professional skills of each candidate and, as a result, propose only suitable roles.
+La differenza tra Java e JavaScript è la stessa tra mela e ananas. Le persone che contattano tecnici professionisti devono avere una conoscenza basilare in modo da costruire una discussione coerente e credibile sul ruolo e il contesto della persona. Jaguar28 aiuta i recruiter delle aziende ad acquisire la conoscenza necessaria per selezionare propriamente le competenze professionali di ogni candidato e, come risultato, proporre solo ruoli adeguati.
 ***
-**9. A FEEDBACK ON THE INTERVIEW IS ALWAYS MANDATORY**
+**9. LE INTERVISTE DEVONO SEMPRE RESTITUIRE UN RISCONTRO**
 
-Do ut des. From the beginning of the process, all the information that is not shared among the actors is a potential mutual improvement that is wasted. In this direction, Jaguar28 promotes a transparent system of rapid and guaranteed feedback between professionals and companies so that the former can have ideas on their professional development and the latter have an effective feedback on their modus operandi.
+_Do ut des_. Dall'inizio del processo, tutte le informazioni che non sono state condivise tra gli attori sono un potenziale mutuo vantaggio perso. In questa direzione, Jaguar28 promuove un sistema trasparente di riscontro rapido e garantito tra professionisti e aziende in modo che i primi possano farsi un'idea del loro sviluppo professionale e i secondi abbiano un riscontro effettivo del loro _modus operandi_.
 ***
-**10.SOMETHING MISSING?**
+**10.MANCA QUALCOSA?**
 
-We wrote a dynamic Manifesto, where we collected the main topics that generate the asymmetry between companies and professionals. If you think something is missing or needs more details, feel free to tell us your comments by writing to: hello@jaguar28.com
+Noi abbiamo redatto un Manifesto dinamico, dove noi abbiamo elencato gli argomenti principali che creano scoordinamento tra aziende e professionisti. Se tu pensi che manchi qualcosa o che siano necessari ulteriori dettagli, sentiti libero di comunicarci i tuoi commenti scrivendo a : hello@jaguar28.com
 ***
-### WHAT IS JAGUAR28?
+### COSA E' JAGUAR28?
 
-Jaguar28 is a Made in Italy project which connects professionals and companies sharing a common view of the tech industry. Every month, members can enjoy exclusive benefits in a recruiter-free community and, if interested, get in touch with companies that respect our Manifesto.
+Jaguar28 è un progetto Made in Italy che mette in comunicazione professionisti e aziende condidividendo una comune prospettiva dell'industria tecnologica. Ogni mese, i membri possono usufruire di benefici esclusivi in una comunità libera da recruiter e, se interessati, entrare in contatto con società che rispettano il nostro Manifesto.
 
-### HOW CAN I JOIN?
+### COME POSSO PARTECIPARE?
 
-Everyone is welcome to join our community: we have public channels on Slack where we talk about technology, innovation and news. Once you are in, you can request access to the private channels by filling the registration form. Otherwise, if you are not interest in being an active user of our community you can simply subscribe to our newsletter:
+Ognuno è benvenuto a partecipare alla nostra comunità: abbiamo canali pubblic iin Slack dove parliamo di tecnologia, innovazione e notizies. Una volta entrato, puoi avanzare richiesta di accesso a canali privati riempiendo il form di registrazione. Altrimenti, se non sei interessato a essere un membro attivo della nostra community, puoi semplicemente sottoscrivere le nostre newsletter:
 
 
 [![](http://d2.alternativeto.net/dist/icons/slack_59044.png?width=64&height=64&mode=crop&upscale=false)](https://goo.gl/uBOshP) [![](https://cdn.zapier.com/storage/services/5c727288d9c2f69a9eee136c5f5a0f72.64x64.png)](http://eepurl.com/cEvQPv)
