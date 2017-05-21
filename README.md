@@ -56,7 +56,7 @@ Nous avons écrit un Manifest dynamic, ou nous avons collectionné  les argument
 Jaguar28 est un project Made in Italy que rapproches professionnels et enterprises partageant une vue comune de l'industrie technologique. Chaque mois, les membres peux user des exclusives avantages in un comunitè sans recruteurs et, si tu est intéressé, contacter avec des enterprises que suivent notre Manifeste.
 
 ### COMMENT PEUX-JE ME JOINDRE A'?
-/*****************/
+
 Tout le monde est bienvenu à se-joindre à notre communité: nous avons des canals publiques en Slack où nous parlons de technologie, de innovation et de nouvelles. Une fois que tu est entré, tu peux demander l'accès aux canals privè end remplent le formulaire de enregistrement. Sinon, si tu n'est pas interessè à être un utilisateur active de notre communitè tu peux simplement t'abonner à notre nouvelles imprimées:
 
 
