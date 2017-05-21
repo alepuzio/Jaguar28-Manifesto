@@ -60,4 +60,4 @@ Jaguar28 est un project Made in Italy que rapproches professionnels et enterpris
 Tout le monde est bienvenu à se-joindre à notre communité: nous avons des canals publiques en Slack où nous parlons de technologie, de innovation et de nouvelles. Une fois que tu est entré, tu peux demander l'accès aux canals privè end remplent le formulaire de enregistrement. Sinon, si tu n'est pas interessè à être un utilisateur active de notre communitè tu peux simplement t'abonner à notre nouvelles imprimées:
 
 
-[![](http://d2.alternativeto.net/dist/icons/slack_59044.png?width=64&height=64&mode=crop&upscale=false)](https://goo.gl/uBOshP) [![](https://cdn.zapier.com/storage/services/5c727288d9c2f69a9eee136c5f
+[![](http://d2.alternativeto.net/dist/icons/slack_59044.png?width=64&height=64&mode=crop&upscale=false)](https://goo.gl/uBOshP) [![](https://cdn.zapier.com/storage/services/5c727288d9c2f69a9eee136c5f5a0f72.64x64.png)](http://eepurl.com/cEvQPv)
