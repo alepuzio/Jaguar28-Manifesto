@@ -1,5 +1,5 @@
 # Jaguar28 Manifesto: 9 punti per ridefinire la relazione tra aziende e tecnici professionisti.
-## (Traduzione non ufficiale in italiano)
+###### (Traduzione non ufficiale in italiano)
 ![](https://cdn-images-1.medium.com/max/800/1*bqgiR018SkKeejcLGwtbGQ.png)
 
 Nell'industria tecnologica, domanda e offerta di lavoro sono spesso scoordinate: riconoscere e coinvolgere talenti è un compito delicato che necessita di principi condivisi tra aziende e professionisti.
